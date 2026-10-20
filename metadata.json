@@ -1,0 +1,7 @@
+{
+  "name": "Karin Ingrid | Gesundheit verstehen",
+  "description": "Verständliche Informationen zu Gesundheit, Ernährung, Prävention und E-Books von Karin Ingrid mit eleganten und flüssigen Animationen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
